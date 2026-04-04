@@ -4,8 +4,11 @@
 
 hello there, it seems you have stumbled on my repository. btw, dont expect for the code quality to be good-i am js a noob 😭
 
-# what this dumb thing does
+## what this dumb thing does
 [INSERT HERE]
 
-# why?
-i dont knowowowows  DFFDVKJV FDVFDKJVJDLSVJDILGFDSLCXCVDK;FSKEFLIERFLSD DF OFF C X FR H YT HFD VDS F KESJFDKSHJKDSJVJKFDHLSXCV  X
+## why?
+windows settings can be very hidden, it gets annoying 
+
+## when will the GUI version be released
+**when Half Life 3 is released**
