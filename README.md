@@ -1,6 +1,6 @@
 # better-windows-settings
 
-<font color="red">hey btw this is in like very early dev</font>
+- hey btw this is in like very early dev
 
 
 
