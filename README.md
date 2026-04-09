@@ -12,6 +12,8 @@
 
 hello there, it seems you have stumbled on my repository. btw, dont expect for the code quality to be good-i am js a noob 😭
 
+i also uhh switched from windows to linux and didn't save my projects....
+
 ## what this dumb thing does
 [INSERT HERE]
 
